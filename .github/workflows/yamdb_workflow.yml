@@ -23,8 +23,6 @@ jobs:
       run: flake8 .
     - name: Test with pytest
       run: pytest
-        with:
-          secret_key: ${{ secrets.SECRET_KEY }}
 
   build_and_push_to_docker_hub:
     name: Push Docker image to Docker Hub
