@@ -23,6 +23,8 @@ jobs:
       run: flake8 .
     - name: Test with pytest
       run: pytest
+      with:
+        secret_key: ${{ secrets.SECRET_KEY }}
 
   build_and_push_to_docker_hub:
     name: Push Docker image to Docker Hub
@@ -72,6 +74,6 @@ jobs:
       - name: send message
         uses: appleboy/telegram-action@master
         with:
-          to: ${{ secrets.TELEGRAM_CHAT_ID }}
+          chat: ${{ secrets.TELEGRAM_CHAT_ID }}
           token: ${{ secrets.TELEGRAM_TOKEN }}
           message: ${{ github.workflow }} успешно выполнен!
