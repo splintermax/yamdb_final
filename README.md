@@ -80,6 +80,9 @@
 ---
 ## Над проектом работал:
   - [Максим Коркин](https://github.com/splintermax)
-
+---  
+## Ссылка на проект:  
+  - [Развернутый проект можно посмотреть тут](https://github.com/splintermax/yamdb_final)
+---
 ## Бейдж:
    ![example workflow](https://github.com/splintermax/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
