@@ -82,8 +82,8 @@
   - [Максим Коркин](https://github.com/splintermax)
 ---  
 ## Ссылка на проект:  
-  - [Админку можно посмотреть по этой ссылке](http://158.160.0.60/admin),
-  - [Redoc можно посмотреть по этой ссылке](http://158.160.0.60/redoc)
+  - [Админку можно посмотреть по этой ссылке](korkin.ddns.net/admin),
+  - [Redoc можно посмотреть по этой ссылке](korkin.ddns.net/redoc)
 ---
 ## Бейдж:
    ![example workflow](https://github.com/splintermax/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
