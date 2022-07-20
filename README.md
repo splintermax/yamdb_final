@@ -82,7 +82,8 @@
   - [Максим Коркин](https://github.com/splintermax)
 ---  
 ## Ссылка на проект:  
-  - [Развернутый проект можно посмотреть тут](http://158.160.0.60:8000/admin)
+  - [Админку можно посмотреть по этой ссылке](http://158.160.0.60/admin),
+  - [API можно посмотреть по этой ссылке](http://158.160.0.60/api/v1)
 ---
 ## Бейдж:
    ![example workflow](https://github.com/splintermax/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
