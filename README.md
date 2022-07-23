@@ -83,7 +83,7 @@
 ---  
 ## Ссылка на проект:  
   - [Админку можно посмотреть по этой ссылке](http://158.160.0.60/admin),
-  - [API можно посмотреть по этой ссылке](http://158.160.0.60/api/v1)
+  - [Redoc можно посмотреть по этой ссылке](http://158.160.0.60/redoc)
 ---
 ## Бейдж:
    ![example workflow](https://github.com/splintermax/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
